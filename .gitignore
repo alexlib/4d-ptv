@@ -25,3 +25,4 @@ profile.png
 **/.venv
 
 .pdm-python
+uv.lock
